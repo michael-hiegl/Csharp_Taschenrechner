@@ -1,0 +1,11 @@
+C:\Users\micha\source\repos\TCC_Rechner\TCC_Rechner\bin\Debug\TCC_Rechner.exe.config
+C:\Users\micha\source\repos\TCC_Rechner\TCC_Rechner\bin\Debug\TCC_Rechner.exe
+C:\Users\micha\source\repos\TCC_Rechner\TCC_Rechner\bin\Debug\TCC_Rechner.pdb
+C:\Users\micha\source\repos\TCC_Rechner\TCC_Rechner\obj\Debug\TCC_Rechner.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\TCC_Rechner\TCC_Rechner\obj\Debug\TCC_Rechner.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\source\repos\TCC_Rechner\TCC_Rechner\obj\Debug\TCC_Rechner.Form1.resources
+C:\Users\micha\source\repos\TCC_Rechner\TCC_Rechner\obj\Debug\TCC_Rechner.Properties.Resources.resources
+C:\Users\micha\source\repos\TCC_Rechner\TCC_Rechner\obj\Debug\TCC_Rechner.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\TCC_Rechner\TCC_Rechner\obj\Debug\TCC_Rechner.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\TCC_Rechner\TCC_Rechner\obj\Debug\TCC_Rechner.exe
+C:\Users\micha\source\repos\TCC_Rechner\TCC_Rechner\obj\Debug\TCC_Rechner.pdb
